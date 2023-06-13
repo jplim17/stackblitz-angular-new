@@ -4,8 +4,6 @@ import { NgModule } from '@angular/core';
 /* App Root */
 import { AppComponent } from './app.component';
 
-/* Feature Modules */
-
 /* Routing Module */
 import { AppRoutingModule } from './app-routing.module';
 
